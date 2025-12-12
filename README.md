@@ -75,6 +75,7 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
     />
 </div>
 
+
 <style>
     .linguagens {
         display: inline_block;
