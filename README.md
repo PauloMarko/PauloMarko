@@ -6,7 +6,7 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
 
 ---
 
-<div class="estatisticas">
+<div class="estatisticas" style="display: flex;">
     <img
 	    align="left"
         alt="GitHub Stats"
@@ -22,7 +22,8 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
     />
 </div>
 
-<div class="linguagens">
+
+<div class="linguagens" style="display: inline_block; margin-top: 20px;">
     <img
         align="left"
         alt="Python"
@@ -74,15 +75,3 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
     />
 </div>
-
-
-<style>
-    .linguagens {
-        display: inline_block;
-        margin-top: 20px;
-    }
-
-    .estatisticas {
-        display: flex;
-    }
-</style>
