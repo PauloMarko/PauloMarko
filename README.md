@@ -46,6 +46,8 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 /> 
 
+<br>
+
 #### 2. Sistemas
 
 <img
@@ -64,7 +66,10 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 
+<br>
+
 ---
+
 ### 📊 Estatísticas
 
 <img
@@ -80,3 +85,4 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloMarko&repo=github-readme-stats&theme=dracula&layout=compact&locale=pt-br" 
 />
+
