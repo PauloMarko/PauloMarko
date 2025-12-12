@@ -15,15 +15,24 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
         src="https://github-readme-stats.vercel.app/api?username=PauloMarko&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&locale=pt-br" 
     /><img
         align="left"
+		height="200"
         alt="GitHub Stats"
-        height="200"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloMarko&repo=github-readme-stats&theme=dracula&layout=compact&locale=pt-br" 
     />
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<div class="linguagens" style="display: inline_block; margin-top: 20px;">
+<div class="linguagens" style="display: flex; margin-top: 200px;">
     <img
         align="left"
         alt="Python"
