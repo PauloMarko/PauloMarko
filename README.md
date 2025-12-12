@@ -7,7 +7,7 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
 ---
 ### 🧠 Conhecimentos
 
-**1. Linguagens**
+#### 1. Linguagens
 
 <img
 	align="left"
@@ -46,7 +46,7 @@ Marcos Paulo, natural do Rio Grande do Norte. Atualmente, cursando o Ensino Méd
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 /> 
 
-**2. Sistemas**
+#### 2. Sistemas
 
 <img
 	align="left"
