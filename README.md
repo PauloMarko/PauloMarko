@@ -1,4 +1,9 @@
-# 💻 PauloMarko (Marcos Paulo)
+<h1 align="center">Marcos Paulo</h1>
+
+<img
+	alt="GitHub Snake Game"
+	src="https://github.com/PauloMarko/PauloMarko/blob/output/github-snake-dark.svg"
+/>
 
 **`Sou apenas um desenvolvedor iniciante`**
 
